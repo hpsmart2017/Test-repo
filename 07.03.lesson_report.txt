@@ -61,3 +61,6 @@
 
 실습과제: kaggle 데이터를 선정 데이터 전처리 파이프라인 구축
 적절한 전처리 시나리오(데이터나 결측값 발생 원인 분석, 논리적인 전개) 
+
+Toby가 만든 예시:
+https://colab.research.google.com/drive/1jdhnU2wTLUuALdpMYZ8bnBsbLfyj8hhH?hl=ko#scrollTo=I02ssHp0mUK1
